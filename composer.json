@@ -1,0 +1,6 @@
+{
+	"name": "phpunit/php-text-template",
+	"type": "library",
+	"description": "A simple template engine",
+	"keywords": ["template","engine","unit","testing","php"]
+}
